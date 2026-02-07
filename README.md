@@ -139,13 +139,14 @@
   <a href="https://www.linkedin.com/in/bantuvarshasri" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:varshasribantu11@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=varshasribantu11@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/varshasri11">
+  <a href="https://github.com/varshasri11" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
 
 ---
 
