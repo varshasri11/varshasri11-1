@@ -104,11 +104,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
+ <!-- <img
     src="https://github-readme-stats.vercel.app/api?username=varshasri11&show_icons=true&theme=tokyonight&hide_border=true"
     height="165"
     alt="GitHub stats"
-  />
+  /> -->
+
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=varshasri11&theme=tokyonight&hide_border=true"
     height="165"
