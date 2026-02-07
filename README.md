@@ -104,8 +104,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varshasri11&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varshasri11&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=varshasri11&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="A description of the image content/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varshasri11&theme=tokyonight&hide_border=true" height="165" alt="A description of the image content/>
 </p>
 
 ---
@@ -151,7 +151,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="280">
+  <img src="https://media.tenor.com/8r0QMAcfdCAAAAAj/pink-thank-you.gif" width="280">
 </p>
 
 ✨ *Always learning. Always building. Open to collaborations in AI & Data Science.*
